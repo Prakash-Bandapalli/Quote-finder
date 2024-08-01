@@ -1,6 +1,3 @@
-Certainly! Here’s the complete `README.md` file ready to be copied and pasted:
-
-```markdown
 # Quote Finder App
 
 The Quote Finder App is a React-based application that fetches random quotes from the Ron Swanson Quotes API. It allows users to save their favorite quotes and persist them using local storage. This ensures that saved quotes are retained even after the page is refreshed.
