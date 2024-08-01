@@ -33,7 +33,7 @@ The Quote Finder App is a React-based application that fetches random quotes fro
 
 1. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 2. Open your browser and navigate to:
    ```
